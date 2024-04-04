@@ -12,4 +12,4 @@ Prueba de comandos
 git branch
 git checkout
 
-
+Hacer pull request.
